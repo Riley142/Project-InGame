@@ -1,0 +1,41 @@
+.platformGamesBox {
+    width: 100%;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.platformGameCont {
+    box-sizing: border-box;
+    margin: 1% auto;
+    background: var(--purpleAccentHov);
+    border: 5px solid var(--blueAccentHov);
+    width: 23%;
+}
+
+.platformCont {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+#PlayStation5 .platformGameCont {
+    background: var(--purpleAccent);
+}
+#PlayStation4 .platformGameCont {
+    background: var(--blueAccent);
+}
+#PC .platformGameCont {
+    background: var(--greyAccent);
+}
+#Switch .platformGameCont {
+    background: var(--purpleAccentHov);
+}
+#XboxOne .platformGameCont {
+    background: var(--lightPinkAccent);
+}
+#XboxSeriesX .platformGameCont {
+    background: var(--lightGreenAccent);
+}
+#WiiU .platformGameCont {
+    background: var(--lightOrangeAccent);
+}
