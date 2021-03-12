@@ -2,10 +2,13 @@
 
 ### Game library / review site
 
-###Group Project from CodeNation Bootcamp
+###Group Project from CodeNation Bootcamp 🤓
 --- 
 
-Devs that worked on the project :
+✨ Developers that worked on the project ✨ 
+
+<br />
+
 **Backend**
 - [Riley](https://github.com/Riley142)
 - [Joe](https://github.com/JoeFoster-cn)
