@@ -8,7 +8,9 @@ Devs that worked on the project :
 **Backend**&NewLine;&NewLine;
 [Riley](https://github.com/Riley142)
 [Joe](https://github.com/JoeFoster-cn)
-&NewLine;&NewLine;
+&NewLine;&NewLine;&nbsp;
+&nbsp;&nbsp;
+&nbsp;
 **Frontend**&NewLine;&NewLine;
 [Phil](https://github.com/phiddle)
 [Muge](https://github.com/mafromist)
