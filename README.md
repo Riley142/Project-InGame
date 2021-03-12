@@ -1,6 +1,5 @@
 # Project InGame
-Game library / review site
-Group Project from CodeNation Bootcamp 🤓
+Game library / review site group project from CodeNation Bootcamp 🤓
 ---
 ✨ Developers that worked on the project ✨ 
 
