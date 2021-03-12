@@ -1,5 +1,5 @@
 # Project InGame
-Game library / review site 
+Game library / review site 🎮
 <br />
 Group project from CodeNation Bootcamp 🤓
 ---
