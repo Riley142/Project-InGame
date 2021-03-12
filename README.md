@@ -3,15 +3,14 @@
 ### Game library / review site
 
 ###Group Project from CodeNation Bootcamp
-
+--- 
 Devs that worked on the project :
-**Backend**&NewLine;&NewLine;
+**Backend**
 [Riley](https://github.com/Riley142)
 [Joe](https://github.com/JoeFoster-cn)
-&NewLine;&NewLine;&nbsp;
-&nbsp;&nbsp;
-&nbsp;
-**Frontend**&NewLine;&NewLine;
+
+
+**Frontend**
 [Phil](https://github.com/phiddle)
 [Muge](https://github.com/mafromist)
 [Joe](https://github.com/JoeFoster-cn)
